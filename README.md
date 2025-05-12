@@ -15,8 +15,7 @@ This was one of my first ever arduino projects, so please excuse the rough  code
 
 ## Arduino Pin Mapping
 
-- A0: VRX (Joystick)
-- A1: VRY (Joystick)
-- D6: SW (Joystick)
-- D8–D11: LEDs 1–4
-- D5: Active buzzer
+- A0: S (Water Sensor)
+- D2: Active Buzzer
+- D3: Red LED
+- D4: Green LED
